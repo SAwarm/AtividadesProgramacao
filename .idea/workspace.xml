@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fdc9eb76-064e-41b2-9103-653ee6e8811c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrabalhoPratico.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrabalhoPratico.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1xNeVMYhJwfVueiLxiaOhPUoArb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,7 +53,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrabalhoPratico.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SomaLinhasColunas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +74,8 @@
       <workItem from="1630200029445" duration="4211000" />
       <workItem from="1630450340290" duration="5240000" />
       <workItem from="1631131300569" duration="1586000" />
-      <workItem from="1631142276698" duration="2190000" />
+      <workItem from="1631142276698" duration="2496000" />
+      <workItem from="1632335595102" duration="17629000" />
     </task>
     <servers />
   </component>
@@ -76,6 +84,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AtividadesProgramacao$MaiorMenoNotas_.coverage" NAME="MaiorMenoNotas.py Coverage Results" MODIFIED="1630204493549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MaiorMenorNotas_py$MaiorMenoNotas_py.coverage" NAME="MaiorMenoNotas.py Coverage Results" MODIFIED="1631147337043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MaiorMenorNotas_py$MaiorMenoNotas_py.coverage" NAME="MaiorMenoNotas.py Coverage Results" MODIFIED="1632356150923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
