@@ -24,10 +24,14 @@ def novaLinha(lis):
         if i == len(lis):
             linha = []
             lis.append(linha)
-            for x in range(len(lis)-1):
-                for y in range(len(lis)):
-                    soma = lis[x][y]
-                    lis[i].append(soma)
+    for x in range(len(lis)):
+        if x == len(lis)-1:
+            for y in range(len(lis)-1):
+                for z in range(len(lis)-1):
+                    soma += lis[z][y]
+                lis[x].append(soma)
+                soma = 0
+
 lis = []
 adicionarValoresMatriz(lis)
 lerValoresMatriz(lis)
