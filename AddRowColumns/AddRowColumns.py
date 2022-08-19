@@ -59,11 +59,23 @@ def newRow(list):
                 list[x].append(sumList)
                 sumList = 0
 
-
+# variable list
 list = []
+
+# call method to add values in list
 addValuesList(list)
+
+# call method to read values in list
 readValueList(list)
+
+# call method to sum values in list
 sumValues(list)
+
+# call method to read values in list
 readValueList(list)
+
+# call method to add new row in list
 newRow(list)
+
+# call method to read values in list
 readValueList(list)
